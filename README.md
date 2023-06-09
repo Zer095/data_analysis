@@ -1,4 +1,4 @@
-# ML Model to Predict Position of Football Players - Serie A
+# Neural Network to classify the position of Football Players - Serie A
 
 ## Objective
 
